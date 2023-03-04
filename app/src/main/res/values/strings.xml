@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_Parcial1_21133</string>
+    <string name="la_capital_del_cine">La Capital del Cine</string>
+    <string name="cinepolis_altama">Cinepolis Altama</string>
+    <string name="aventur_ciencia_ficcion">Aventur, Ciencia Ficcion</string>
+    <string name="_125_min">125 min</string>
+    <string name="b">B</string>
+    <string name="por_favor_seleccione_su_horario">Por favor seleccione su horario</string>
+    <string name="ant_man_and_the_wasp_quantumania">Ant-Man and The Wasp Quantumania</string>
+    <string name="ant_man_and_the_wasp_quantumania_eua_2023">Ant-Man and The Wasp Quantumania (EUA,2023)</string>
+</resources>
